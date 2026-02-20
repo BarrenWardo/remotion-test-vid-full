@@ -6,7 +6,9 @@ A professional-grade animated explainer video about how Large Language Models wo
 
 ## 📺 Video Preview
 
-https://github.com/user-attachments/assets/video.mp4
+Download and watch: `llm-video/out/video.mp4`
+
+Or view on GitHub: [llm-video/out/video.mp4](llm-video/out/video.mp4)
 
 ## 🎨 Features
 
